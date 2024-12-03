@@ -36,7 +36,7 @@ def create_cubes_in_circle(num_cubes, radius, cube_size=1.0):
         angle = i * angle_step
         x = radius * math.cos(angle)
         y = radius * math.sin(angle)
-        z = cube_size / 2  # Place cube so its bottom is on the ground
+        z = i + cube_size / 2  # Place cube so its bottom is on the ground
         
         logger.debug(f'Creating cube {i+1} at position ({x:.2f}, {y:.2f}, {z:.2f})')
         

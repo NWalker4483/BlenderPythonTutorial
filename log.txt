@@ -97,3 +97,237 @@ DEBUG:btest.make_circle:Creating cube 8 at position (3.54, -3.54, 0.50)
 DEBUG:btest.make_circle:Named cube as Cube_8
 DEBUG:btest.make_circle:Rotated Cube_8 to face center
 INFO:btest.make_circle:Successfully created 8 cubes
+INFO:btest.make_circle:Creating 8 cubes in circle with radius 5.0
+DEBUG:btest.make_circle:Deleting all objects from scene
+INFO:btest.make_circle:All objects deleted
+DEBUG:btest.make_circle:Angle step between cubes: 0.7853981633974483 radians
+DEBUG:btest.make_circle:Creating cube 1 at position (5.00, 0.00, 0.50)
+DEBUG:btest.make_circle:Named cube as Cube_1
+DEBUG:btest.make_circle:Rotated Cube_1 to face center
+DEBUG:btest.make_circle:Creating cube 2 at position (3.54, 3.54, 1.50)
+DEBUG:btest.make_circle:Named cube as Cube_2
+DEBUG:btest.make_circle:Rotated Cube_2 to face center
+DEBUG:btest.make_circle:Creating cube 3 at position (0.00, 5.00, 2.50)
+DEBUG:btest.make_circle:Named cube as Cube_3
+DEBUG:btest.make_circle:Rotated Cube_3 to face center
+DEBUG:btest.make_circle:Creating cube 4 at position (-3.54, 3.54, 3.50)
+DEBUG:btest.make_circle:Named cube as Cube_4
+DEBUG:btest.make_circle:Rotated Cube_4 to face center
+DEBUG:btest.make_circle:Creating cube 5 at position (-5.00, 0.00, 4.50)
+DEBUG:btest.make_circle:Named cube as Cube_5
+DEBUG:btest.make_circle:Rotated Cube_5 to face center
+DEBUG:btest.make_circle:Creating cube 6 at position (-3.54, -3.54, 5.50)
+DEBUG:btest.make_circle:Named cube as Cube_6
+DEBUG:btest.make_circle:Rotated Cube_6 to face center
+DEBUG:btest.make_circle:Creating cube 7 at position (-0.00, -5.00, 6.50)
+DEBUG:btest.make_circle:Named cube as Cube_7
+DEBUG:btest.make_circle:Rotated Cube_7 to face center
+DEBUG:btest.make_circle:Creating cube 8 at position (3.54, -3.54, 7.50)
+DEBUG:btest.make_circle:Named cube as Cube_8
+DEBUG:btest.make_circle:Rotated Cube_8 to face center
+INFO:btest.make_circle:Successfully created 8 cubes
+INFO:btest.make_circle:Creating 8 cubes in circle with radius 5.0
+DEBUG:btest.make_circle:Deleting all objects from scene
+INFO:btest.make_circle:All objects deleted
+DEBUG:btest.make_circle:Angle step between cubes: 0.7853981633974483 radians
+DEBUG:btest.make_circle:Creating cube 1 at position (5.00, 0.00, 0.50)
+DEBUG:btest.make_circle:Named cube as Cube_1
+DEBUG:btest.make_circle:Rotated Cube_1 to face center
+DEBUG:btest.make_circle:Creating cube 2 at position (3.54, 3.54, 1.50)
+DEBUG:btest.make_circle:Named cube as Cube_2
+DEBUG:btest.make_circle:Rotated Cube_2 to face center
+DEBUG:btest.make_circle:Creating cube 3 at position (0.00, 5.00, 2.50)
+DEBUG:btest.make_circle:Named cube as Cube_3
+DEBUG:btest.make_circle:Rotated Cube_3 to face center
+DEBUG:btest.make_circle:Creating cube 4 at position (-3.54, 3.54, 3.50)
+DEBUG:btest.make_circle:Named cube as Cube_4
+DEBUG:btest.make_circle:Rotated Cube_4 to face center
+DEBUG:btest.make_circle:Creating cube 5 at position (-5.00, 0.00, 4.50)
+DEBUG:btest.make_circle:Named cube as Cube_5
+DEBUG:btest.make_circle:Rotated Cube_5 to face center
+DEBUG:btest.make_circle:Creating cube 6 at position (-3.54, -3.54, 5.50)
+DEBUG:btest.make_circle:Named cube as Cube_6
+DEBUG:btest.make_circle:Rotated Cube_6 to face center
+DEBUG:btest.make_circle:Creating cube 7 at position (-0.00, -5.00, 6.50)
+DEBUG:btest.make_circle:Named cube as Cube_7
+DEBUG:btest.make_circle:Rotated Cube_7 to face center
+DEBUG:btest.make_circle:Creating cube 8 at position (3.54, -3.54, 7.50)
+DEBUG:btest.make_circle:Named cube as Cube_8
+DEBUG:btest.make_circle:Rotated Cube_8 to face center
+INFO:btest.make_circle:Successfully created 8 cubes
+INFO:btest.make_circle:Creating 8 cubes in circle with radius 5.0
+DEBUG:btest.make_circle:Deleting all objects from scene
+INFO:btest.make_circle:All objects deleted
+DEBUG:btest.make_circle:Angle step between cubes: 0.7853981633974483 radians
+DEBUG:btest.make_circle:Creating cube 1 at position (5.00, 0.00, 0.50)
+DEBUG:btest.make_circle:Named cube as Cube_1
+DEBUG:btest.make_circle:Rotated Cube_1 to face center
+DEBUG:btest.make_circle:Creating cube 2 at position (3.54, 3.54, 1.50)
+DEBUG:btest.make_circle:Named cube as Cube_2
+DEBUG:btest.make_circle:Rotated Cube_2 to face center
+DEBUG:btest.make_circle:Creating cube 3 at position (0.00, 5.00, 2.50)
+DEBUG:btest.make_circle:Named cube as Cube_3
+DEBUG:btest.make_circle:Rotated Cube_3 to face center
+DEBUG:btest.make_circle:Creating cube 4 at position (-3.54, 3.54, 3.50)
+DEBUG:btest.make_circle:Named cube as Cube_4
+DEBUG:btest.make_circle:Rotated Cube_4 to face center
+DEBUG:btest.make_circle:Creating cube 5 at position (-5.00, 0.00, 4.50)
+DEBUG:btest.make_circle:Named cube as Cube_5
+DEBUG:btest.make_circle:Rotated Cube_5 to face center
+DEBUG:btest.make_circle:Creating cube 6 at position (-3.54, -3.54, 5.50)
+DEBUG:btest.make_circle:Named cube as Cube_6
+DEBUG:btest.make_circle:Rotated Cube_6 to face center
+DEBUG:btest.make_circle:Creating cube 7 at position (-0.00, -5.00, 6.50)
+DEBUG:btest.make_circle:Named cube as Cube_7
+DEBUG:btest.make_circle:Rotated Cube_7 to face center
+DEBUG:btest.make_circle:Creating cube 8 at position (3.54, -3.54, 7.50)
+DEBUG:btest.make_circle:Named cube as Cube_8
+DEBUG:btest.make_circle:Rotated Cube_8 to face center
+INFO:btest.make_circle:Successfully created 8 cubes
+INFO:btest.make_circle:Creating 8 cubes in circle with radius 5.0
+DEBUG:btest.make_circle:Deleting all objects from scene
+INFO:btest.make_circle:All objects deleted
+DEBUG:btest.make_circle:Angle step between cubes: 0.7853981633974483 radians
+DEBUG:btest.make_circle:Creating cube 1 at position (5.00, 0.00, 0.50)
+DEBUG:btest.make_circle:Named cube as Cube_1
+DEBUG:btest.make_circle:Rotated Cube_1 to face center
+DEBUG:btest.make_circle:Creating cube 2 at position (3.54, 3.54, 1.50)
+DEBUG:btest.make_circle:Named cube as Cube_2
+DEBUG:btest.make_circle:Rotated Cube_2 to face center
+DEBUG:btest.make_circle:Creating cube 3 at position (0.00, 5.00, 2.50)
+DEBUG:btest.make_circle:Named cube as Cube_3
+DEBUG:btest.make_circle:Rotated Cube_3 to face center
+DEBUG:btest.make_circle:Creating cube 4 at position (-3.54, 3.54, 3.50)
+DEBUG:btest.make_circle:Named cube as Cube_4
+DEBUG:btest.make_circle:Rotated Cube_4 to face center
+DEBUG:btest.make_circle:Creating cube 5 at position (-5.00, 0.00, 4.50)
+DEBUG:btest.make_circle:Named cube as Cube_5
+DEBUG:btest.make_circle:Rotated Cube_5 to face center
+DEBUG:btest.make_circle:Creating cube 6 at position (-3.54, -3.54, 5.50)
+DEBUG:btest.make_circle:Named cube as Cube_6
+DEBUG:btest.make_circle:Rotated Cube_6 to face center
+DEBUG:btest.make_circle:Creating cube 7 at position (-0.00, -5.00, 6.50)
+DEBUG:btest.make_circle:Named cube as Cube_7
+DEBUG:btest.make_circle:Rotated Cube_7 to face center
+DEBUG:btest.make_circle:Creating cube 8 at position (3.54, -3.54, 7.50)
+DEBUG:btest.make_circle:Named cube as Cube_8
+DEBUG:btest.make_circle:Rotated Cube_8 to face center
+INFO:btest.make_circle:Successfully created 8 cubes
+INFO:btest.make_circle:Creating 18 cubes in circle with radius 5.0
+DEBUG:btest.make_circle:Deleting all objects from scene
+INFO:btest.make_circle:All objects deleted
+DEBUG:btest.make_circle:Angle step between cubes: 0.3490658503988659 radians
+DEBUG:btest.make_circle:Creating cube 1 at position (5.00, 0.00, 0.50)
+DEBUG:btest.make_circle:Named cube as Cube_1
+DEBUG:btest.make_circle:Rotated Cube_1 to face center
+DEBUG:btest.make_circle:Creating cube 2 at position (4.70, 1.71, 1.50)
+DEBUG:btest.make_circle:Named cube as Cube_2
+DEBUG:btest.make_circle:Rotated Cube_2 to face center
+DEBUG:btest.make_circle:Creating cube 3 at position (3.83, 3.21, 2.50)
+DEBUG:btest.make_circle:Named cube as Cube_3
+DEBUG:btest.make_circle:Rotated Cube_3 to face center
+DEBUG:btest.make_circle:Creating cube 4 at position (2.50, 4.33, 3.50)
+DEBUG:btest.make_circle:Named cube as Cube_4
+DEBUG:btest.make_circle:Rotated Cube_4 to face center
+DEBUG:btest.make_circle:Creating cube 5 at position (0.87, 4.92, 4.50)
+DEBUG:btest.make_circle:Named cube as Cube_5
+DEBUG:btest.make_circle:Rotated Cube_5 to face center
+DEBUG:btest.make_circle:Creating cube 6 at position (-0.87, 4.92, 5.50)
+DEBUG:btest.make_circle:Named cube as Cube_6
+DEBUG:btest.make_circle:Rotated Cube_6 to face center
+DEBUG:btest.make_circle:Creating cube 7 at position (-2.50, 4.33, 6.50)
+DEBUG:btest.make_circle:Named cube as Cube_7
+DEBUG:btest.make_circle:Rotated Cube_7 to face center
+DEBUG:btest.make_circle:Creating cube 8 at position (-3.83, 3.21, 7.50)
+DEBUG:btest.make_circle:Named cube as Cube_8
+DEBUG:btest.make_circle:Rotated Cube_8 to face center
+DEBUG:btest.make_circle:Creating cube 9 at position (-4.70, 1.71, 8.50)
+DEBUG:btest.make_circle:Named cube as Cube_9
+DEBUG:btest.make_circle:Rotated Cube_9 to face center
+DEBUG:btest.make_circle:Creating cube 10 at position (-5.00, 0.00, 9.50)
+DEBUG:btest.make_circle:Named cube as Cube_10
+DEBUG:btest.make_circle:Rotated Cube_10 to face center
+DEBUG:btest.make_circle:Creating cube 11 at position (-4.70, -1.71, 10.50)
+DEBUG:btest.make_circle:Named cube as Cube_11
+DEBUG:btest.make_circle:Rotated Cube_11 to face center
+DEBUG:btest.make_circle:Creating cube 12 at position (-3.83, -3.21, 11.50)
+DEBUG:btest.make_circle:Named cube as Cube_12
+DEBUG:btest.make_circle:Rotated Cube_12 to face center
+DEBUG:btest.make_circle:Creating cube 13 at position (-2.50, -4.33, 12.50)
+DEBUG:btest.make_circle:Named cube as Cube_13
+DEBUG:btest.make_circle:Rotated Cube_13 to face center
+DEBUG:btest.make_circle:Creating cube 14 at position (-0.87, -4.92, 13.50)
+DEBUG:btest.make_circle:Named cube as Cube_14
+DEBUG:btest.make_circle:Rotated Cube_14 to face center
+DEBUG:btest.make_circle:Creating cube 15 at position (0.87, -4.92, 14.50)
+DEBUG:btest.make_circle:Named cube as Cube_15
+DEBUG:btest.make_circle:Rotated Cube_15 to face center
+DEBUG:btest.make_circle:Creating cube 16 at position (2.50, -4.33, 15.50)
+DEBUG:btest.make_circle:Named cube as Cube_16
+DEBUG:btest.make_circle:Rotated Cube_16 to face center
+DEBUG:btest.make_circle:Creating cube 17 at position (3.83, -3.21, 16.50)
+DEBUG:btest.make_circle:Named cube as Cube_17
+DEBUG:btest.make_circle:Rotated Cube_17 to face center
+DEBUG:btest.make_circle:Creating cube 18 at position (4.70, -1.71, 17.50)
+DEBUG:btest.make_circle:Named cube as Cube_18
+DEBUG:btest.make_circle:Rotated Cube_18 to face center
+INFO:btest.make_circle:Successfully created 18 cubes
+INFO:btest.make_circle:Creating 18 cubes in circle with radius 5.0
+DEBUG:btest.make_circle:Deleting all objects from scene
+INFO:btest.make_circle:All objects deleted
+DEBUG:btest.make_circle:Angle step between cubes: 0.3490658503988659 radians
+DEBUG:btest.make_circle:Creating cube 1 at position (5.00, 0.00, 0.25)
+DEBUG:btest.make_circle:Named cube as Cube_1
+DEBUG:btest.make_circle:Rotated Cube_1 to face center
+DEBUG:btest.make_circle:Creating cube 2 at position (4.70, 1.71, 1.25)
+DEBUG:btest.make_circle:Named cube as Cube_2
+DEBUG:btest.make_circle:Rotated Cube_2 to face center
+DEBUG:btest.make_circle:Creating cube 3 at position (3.83, 3.21, 2.25)
+DEBUG:btest.make_circle:Named cube as Cube_3
+DEBUG:btest.make_circle:Rotated Cube_3 to face center
+DEBUG:btest.make_circle:Creating cube 4 at position (2.50, 4.33, 3.25)
+DEBUG:btest.make_circle:Named cube as Cube_4
+DEBUG:btest.make_circle:Rotated Cube_4 to face center
+DEBUG:btest.make_circle:Creating cube 5 at position (0.87, 4.92, 4.25)
+DEBUG:btest.make_circle:Named cube as Cube_5
+DEBUG:btest.make_circle:Rotated Cube_5 to face center
+DEBUG:btest.make_circle:Creating cube 6 at position (-0.87, 4.92, 5.25)
+DEBUG:btest.make_circle:Named cube as Cube_6
+DEBUG:btest.make_circle:Rotated Cube_6 to face center
+DEBUG:btest.make_circle:Creating cube 7 at position (-2.50, 4.33, 6.25)
+DEBUG:btest.make_circle:Named cube as Cube_7
+DEBUG:btest.make_circle:Rotated Cube_7 to face center
+DEBUG:btest.make_circle:Creating cube 8 at position (-3.83, 3.21, 7.25)
+DEBUG:btest.make_circle:Named cube as Cube_8
+DEBUG:btest.make_circle:Rotated Cube_8 to face center
+DEBUG:btest.make_circle:Creating cube 9 at position (-4.70, 1.71, 8.25)
+DEBUG:btest.make_circle:Named cube as Cube_9
+DEBUG:btest.make_circle:Rotated Cube_9 to face center
+DEBUG:btest.make_circle:Creating cube 10 at position (-5.00, 0.00, 9.25)
+DEBUG:btest.make_circle:Named cube as Cube_10
+DEBUG:btest.make_circle:Rotated Cube_10 to face center
+DEBUG:btest.make_circle:Creating cube 11 at position (-4.70, -1.71, 10.25)
+DEBUG:btest.make_circle:Named cube as Cube_11
+DEBUG:btest.make_circle:Rotated Cube_11 to face center
+DEBUG:btest.make_circle:Creating cube 12 at position (-3.83, -3.21, 11.25)
+DEBUG:btest.make_circle:Named cube as Cube_12
+DEBUG:btest.make_circle:Rotated Cube_12 to face center
+DEBUG:btest.make_circle:Creating cube 13 at position (-2.50, -4.33, 12.25)
+DEBUG:btest.make_circle:Named cube as Cube_13
+DEBUG:btest.make_circle:Rotated Cube_13 to face center
+DEBUG:btest.make_circle:Creating cube 14 at position (-0.87, -4.92, 13.25)
+DEBUG:btest.make_circle:Named cube as Cube_14
+DEBUG:btest.make_circle:Rotated Cube_14 to face center
+DEBUG:btest.make_circle:Creating cube 15 at position (0.87, -4.92, 14.25)
+DEBUG:btest.make_circle:Named cube as Cube_15
+DEBUG:btest.make_circle:Rotated Cube_15 to face center
+DEBUG:btest.make_circle:Creating cube 16 at position (2.50, -4.33, 15.25)
+DEBUG:btest.make_circle:Named cube as Cube_16
+DEBUG:btest.make_circle:Rotated Cube_16 to face center
+DEBUG:btest.make_circle:Creating cube 17 at position (3.83, -3.21, 16.25)
+DEBUG:btest.make_circle:Named cube as Cube_17
+DEBUG:btest.make_circle:Rotated Cube_17 to face center
+DEBUG:btest.make_circle:Creating cube 18 at position (4.70, -1.71, 17.25)
+DEBUG:btest.make_circle:Named cube as Cube_18
+DEBUG:btest.make_circle:Rotated Cube_18 to face center
+INFO:btest.make_circle:Successfully created 18 cubes

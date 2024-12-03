@@ -35,7 +35,18 @@ files = [
     {file = "debugpy-1.8.9.zip", hash = "sha256:1339e14c7d980407248f09824d1b25ff5c5616651689f1e0f0e51bdead3ea13e"},
 ]
 
+[[package]]
+name = "fake-bpy-module"
+version = "20241202"
+description = "Collection of the fake Blender Python API module for the code completion."
+optional = false
+python-versions = ">=3.8"
+files = [
+    {file = "fake_bpy_module-20241202-py3-none-any.whl", hash = "sha256:c04e78f3ac6a762557a6dd7fefc179f7884f0d7ba07f30db8e726d794831c282"},
+    {file = "fake_bpy_module-20241202.tar.gz", hash = "sha256:fde94c3893007b46c52e56c30df41cdfc181a776c751640247bb1730ac3a7840"},
+]
+
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.12"
-content-hash = "0af777681a8d6662c848f2b9d0be024166b47a6a1a378f17c06717f177b5c78e"
+content-hash = "6041c9bce800bf72d45bac2007a6c773a2e014740f715d4d11178fd9f8fb3c07"

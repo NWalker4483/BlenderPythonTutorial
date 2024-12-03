@@ -6,7 +6,7 @@ import glob
 PACKAGE_NAME = "btest"
 VENV_PATH = '/home/walkenz1/.cache/pypoetry/virtualenvs/btest-UeLnX-4F-py3.12/'
 
-###########region Jank (Shouldn't need to modify)
+#region Jank (Shouldn't need to modify)
 # Find the Python lib directory dynamically
 lib_pattern = os.path.join(VENV_PATH, 'lib','python3.*')
 python_libs = glob.glob(lib_pattern)
@@ -25,7 +25,7 @@ else:
     raise(RuntimeError(f"No Python lib directory found in {VENV_PATH}"))
 
 import importlib
-# Reload all modules that start with 'btest'
+# Reload all submodules from PACKAGE_NAME
 for module_name in list(sys.modules.keys()):
     if module_name.startswith(PACKAGE_NAME):
         try:
@@ -47,7 +47,7 @@ logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
     )
 logging.getLogger().setLevel(logging.DEBUG) # Set the level of the root logger
-###############################################
+#endregion ##############################################
 
 from btest.main import main
 main()

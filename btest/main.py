@@ -1,8 +1,8 @@
 def main():
     # Example usage - change these values as needed
-    NUM_CUBES = 8    # Number of cubes
+    NUM_CUBES = 18    # Number of cubes
     RADIUS = 5.0     # Circle radius
-    CUBE_SIZE = 1.0  # Size of each cube
+    CUBE_SIZE = 0.5  # Size of each cube
 
     # Create the cubes
 
