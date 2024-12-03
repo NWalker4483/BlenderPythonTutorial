@@ -7,6 +7,14 @@ PACKAGE_NAME = "btest"
 VENV_PATH = '/home/walkenz1/.cache/pypoetry/virtualenvs/btest-UeLnX-4F-py3.12/'
 
 #region Jank (Shouldn't need to modify)
+#https://blender.stackexchange.com/questions/319858/how-to-reload-one-particular-ui-script-an-alternative-to-reload-scripts
+import importlib
+import bl_ui
+
+bl_ui.unregister()
+importlib.reload(bl_ui)  # Prevents Addons from piling on the UI after reregistering
+bl_ui.register()
+
 # Find the Python lib directory dynamically
 lib_pattern = os.path.join(VENV_PATH, 'lib','python3.*')
 python_libs = glob.glob(lib_pattern)
@@ -20,7 +28,6 @@ if python_libs:
         sys.path.append(SITE_PACKAGES_DIR)
     if PROJECT_DIR not in sys.path:
         sys.path.append(PROJECT_DIR)
-
 else:
     raise(RuntimeError(f"No Python lib directory found in {VENV_PATH}"))
 

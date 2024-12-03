@@ -24,7 +24,7 @@ def create_cubes_in_circle(num_cubes, radius, cube_size=1.0):
     logger.info(f'Creating {num_cubes} cubes in circle with radius {radius}')
     
     # Delete existing objects
-    delete_all_objects()
+    # delete_all_objects()
     
     # Calculate angle between each cube
     angle_step = (2 * pi) / num_cubes
