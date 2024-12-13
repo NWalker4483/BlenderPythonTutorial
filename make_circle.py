@@ -1,16 +1,13 @@
-import bpy
-import math
 import logging
-from math import radians, pi
+import math
+from math import pi, radians
+
+import bpy
+import matplotlib
 
 logger = logging.getLogger(__name__)
+logger.info(matplotlib.__file__)
 
-def delete_all_objects():
-    """Delete all objects in the scene"""
-    logger.debug("Deleting all objects from scene")
-    bpy.ops.object.select_all(action='SELECT')
-    bpy.ops.object.delete()
-    logger.info("All objects deleted")
 
 def create_cubes_in_circle(num_cubes, radius, cube_size=1.0):
     """
@@ -22,9 +19,6 @@ def create_cubes_in_circle(num_cubes, radius, cube_size=1.0):
         cube_size (float): Size of each cube (default: 1.0)
     """
     logger.info(f'Creating {num_cubes} cubes in circle with radius {radius}')
-    
-    # Delete existing objects
-    # delete_all_objects()
     
     # Calculate angle between each cube
     angle_step = (2 * pi) / num_cubes
