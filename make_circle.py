@@ -4,7 +4,7 @@ from math import pi, radians
 
 import bpy
 import matplotlib
-
+import supervision
 logger = logging.getLogger(__name__)
 logger.info(matplotlib.__file__)
 

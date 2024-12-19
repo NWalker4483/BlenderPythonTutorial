@@ -4,6 +4,8 @@ import os
 from .menu import register as register
 from .menu import unregister as unregister
 
+# print("Cat")
+# logging.info("Cat")
 
 def setup_logging():
     """Configure logging to write to a file in the script's directory."""

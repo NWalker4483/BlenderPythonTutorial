@@ -9,6 +9,8 @@ readme = "README.md"
 python = "^3.12"
 fake-bpy-module = "^20241202"
 matplotlib = "^3.9.3"
+supervision = "^0.25.1"
+pandas = "^2.2.3"
 
 [tool.ruff]
 # Enable rules to find and remove unused imports

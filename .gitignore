@@ -3,5 +3,6 @@
 __pycache__/
 script/
 requirements.txt
+my_data/
 *.whl
 *.zip
