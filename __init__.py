@@ -19,6 +19,8 @@ def setup_logging():
     logging.info("Logging initialized")
 
 
+
+
 if __name__ == "__main__":
     setup_logging()
     register()

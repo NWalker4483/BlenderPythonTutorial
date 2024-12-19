@@ -22,6 +22,8 @@ def create_cubes_in_circle(num_cubes, radius, cube_size=1.0):
     logger.info(f'Creating {num_cubes} cubes in circle with radius {radius}')
     
     # Calculate angle between each cube
+
+    
     angle_step = (2 * pi) / num_cubes
     logger.debug(f'Angle step between cubes: {angle_step} radians')
     
