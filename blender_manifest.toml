@@ -6,10 +6,9 @@ id = "my_example_cube_extension"
 version = "1.0.0"
 name = "Circle Cube Generator"
 tagline = "Creates cubes arranged in a circle"
-maintainer = "Nile Walker <nilezwalker@gmail.com>"
+maintainer = "Nile Walker <>"
 # Supported types: "add-on", "theme"
 type = "add-on"
-#  View3D > Object > Generate Circle of Cubes
 # # Optional: link to documentation, support, source files, etc
 # website = "https://extensions.blender.org/add-ons/my-example-package/"
 

@@ -14,6 +14,7 @@ def create_cubes_in_circle(num_cubes, radius, cube_size=1.0):
     Create num_cubes cubes arranged in a circle with given radius
     
     Args:
+    
         num_cubes (int): Number of cubes to create
         radius (float): Radius of the circle
         cube_size (float): Size of each cube (default: 1.0)
